@@ -1,11 +1,11 @@
-Library_Management_System
+#Library_Management_System
 
 A Library Management System using C++ on Command Line Interface.
 
-Setup and Installation
+#Setup and Installation
 Make sure you have a working MinGW installation.
 
-Functionalities
+#Functionalities
 Students:
 
 Can see all the books.
