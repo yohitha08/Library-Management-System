@@ -1,0 +1,10 @@
+Student
+student
+1
+Professor
+professor
+2
+Librarian
+librarian
+3
+-1
